@@ -1,0 +1,8 @@
+{
+  "submission_id": 56036959,
+  "bundle": "checkpoints/experiments/temporal_visual_inherited_bundle.pt",
+  "bundle_bytes": 50733469,
+  "batch_size": 16,
+  "detector_batch_size": 16,
+  "workers": 8
+}
